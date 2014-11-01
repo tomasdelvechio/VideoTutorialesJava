@@ -1,3 +1,5 @@
+package PrimerPrograma;
+
 import java.util.*;
 
 class Reloj {

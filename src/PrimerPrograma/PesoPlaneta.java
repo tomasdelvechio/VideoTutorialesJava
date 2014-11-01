@@ -1,3 +1,5 @@
+package PrimerPrograma;
+
 class PesoPlaneta {
     public static void main(String[] args) {
         System.out.print("Tu peso en la Tierra es de ");

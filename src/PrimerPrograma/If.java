@@ -1,3 +1,5 @@
+package PrimerPrograma;
+
 class If {
     public static void main(String[] args) {
         int puntuacion=6;

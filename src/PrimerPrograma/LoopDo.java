@@ -1,3 +1,5 @@
+package PrimerPrograma;
+
 import java.io.File;
 import static java.lang.System.out;
 import java.util.Scanner;

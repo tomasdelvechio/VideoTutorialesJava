@@ -1,3 +1,5 @@
+package PrimerPrograma;
+
 class Equals {
     public static void main(String[] args) {
         String respuesta = "Amarillo";

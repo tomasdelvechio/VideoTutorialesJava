@@ -1,3 +1,5 @@
+package PrimerPrograma;
+
 class Tiempo {
     public static void main(String[] args) {
         float fah = 86;

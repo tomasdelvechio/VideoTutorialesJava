@@ -1,3 +1,5 @@
+package PrimerPrograma;
+
 class AnidarLoops {
     public static void main(String args[]) {
         int points = 0;

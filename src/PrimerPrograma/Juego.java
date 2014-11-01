@@ -1,3 +1,5 @@
+package PrimerPrograma;
+
 import static java.lang.System.out;
 import java.util.Scanner;
 import java.util.Random;

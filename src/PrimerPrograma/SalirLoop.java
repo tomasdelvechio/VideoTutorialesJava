@@ -1,3 +1,5 @@
+package PrimerPrograma;
+
 class SalirLoop {
     public static void main(String args[]) {
         int index = 0;
